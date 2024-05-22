@@ -234,7 +234,7 @@ h2:hover::after{
 .project-item{
     text-align: center;
     width: 300px;
-    margin-bottom: 20px;
+    margin: 20px;
     padding: 20px;
     background: #ddd;
     border: 1px solid #ddd;
