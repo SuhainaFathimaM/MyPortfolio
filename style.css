@@ -68,7 +68,7 @@ nav ul li{
     list-style: none;
 }
 .navlink ul li a{
-    color: white;
+    color: black;
     padding: 0 16px;
     text-decoration: none;
     display: block;
